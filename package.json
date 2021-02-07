@@ -1,6 +1,6 @@
 {
   "name": "@re4388/caporal-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI to order and cancel, very simple and it's good for personal practice to know how to build up node.js CLI utility",
   "main": "index.js",
   "keywords": [

@@ -1,9 +1,7 @@
 #!/usr/bin/env ts-node
-// file: pizza-hit.ts
 const { program } = require('@caporal/core');
 
 program
-  // First possible command: "order"
   .command('order', 'Order a pizza')
   .argument('<type>', 'Type of pizza')
   .option('-e, --extra-ingredients <ingredients>', 'Extra ingredients')
