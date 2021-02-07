@@ -1,0 +1,18 @@
+{
+  "name": "@re4388/caporal-cli",
+  "version": "1.0.1",
+  "description": "CLI to order and cancel, very simple and it's good for personal practice to know how to build up node.js CLI utility",
+  "main": "index.js",
+  "keywords": [
+    "caporal",
+    "cli"
+  ],
+  "bin": {
+    "pizza-hit": "src/pizza-hit.js"
+  },
+  "author": "re4388",
+  "license": "MIT",
+  "dependencies": {
+    "@caporal/core": "^2.0.2"
+  }
+}
