@@ -12,6 +12,10 @@
   },
   "author": "re4388",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/re4388/caporal-cli.git"
+  },
   "dependencies": {
     "@caporal/core": "^2.0.2"
   }
