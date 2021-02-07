@@ -4,13 +4,21 @@
 
 `npm install -g @re4388/caporal-cli`
 
-### command
+### command (*nix)
 
 `pizza-hit help`
 
 `pizza-hit order margherita -e pepperoni`
 
 `pizza-hit cancel 12345`
+
+### command (powershell or cmd)
+`pizza-hit.cmd help`
+
+`pizza-hit.cmd order margherita -e pepperoni`
+
+`pizza-hit.cmd cancel 12345`
+
 
 ### uninstall and check
 
